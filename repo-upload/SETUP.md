@@ -63,7 +63,7 @@ Replace `<username>` with the actual Windows username on that machine.
 - Two Graph permissions matter for transcripts:
   - `OnlineMeetingTranscript.Read.All` — needed for scheduled Teams meetings. Usually already available.
   - `CallTranscripts.Read.All` (delegated) — needed for ad-hoc/1:1 calls with no calendar invite. This one requires **Global Admin consent**. On the T3T tenant that's **Stephan** — if a new consultant hits a permissions error on ad-hoc call transcripts, that's the one to ask him to approve.
-
+- You can install it on the terminal before first use to get it cached npx `-y @softeria/ms-365-mcp-server --help`
 ---
 
 ## 3. Claude account settings (per consultant, one-time)
