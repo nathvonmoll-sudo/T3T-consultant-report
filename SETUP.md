@@ -44,7 +44,7 @@ The new version then appears for every consultant automatically. Consultants sho
 
 ---
 
-## 2. Prerequisites to install
+## 2. Prerequisites to install MCP servers
 
 | Requirement | Why | Check |
 |---|---|---|
